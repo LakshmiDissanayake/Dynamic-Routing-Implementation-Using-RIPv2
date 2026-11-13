@@ -155,7 +155,7 @@ This project demonstrates the practical implementation of dynamic routing using 
 It provides hands-on experience in router configuration, IP addressing, serial connections, routing protocol configuration, and communication between geographically or logically separate LAN networks.
 
 ## Project Files
-- [Packet Tracer Project](./Dynamic-Routing-Implementation-Using-RIPv2.pkt)
+- [Packet Tracer Project](./Dynamic Routing Implementation Using RIPv2.pkt)
 - [Screenshots](./Screenshots/)
 
 ---
